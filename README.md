@@ -1,4 +1,4 @@
-# Jake_Portfolio
+# Jake Lender Portfolio
 Data Science Portfolio
 # [Project 1: IMDB Movie Python Data Scraping](https://github.com/JacobLender/IMDb-Movie-Dataset) 
 * Created a Python script that extracts, transforms, and loads a dataset of Top 250 Movies of All Time according to IMDb.
