@@ -1,5 +1,3 @@
-# Jake Lender Portfolio
-
 # [Project : NFL Python Data Scraping & Dashboard](https://github.com/JacobLender/NFL-Stats) 
 * Data scraped passing, rushing, and receiving stats from historical and weekly data using Python script in Jupyter Notebooks.
 * Setup Python script in AWS Lambda to operate automatically on a weekly schedule.
