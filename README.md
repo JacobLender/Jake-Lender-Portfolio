@@ -4,7 +4,7 @@
 * Designed and deployed an interactive Power BI dashboard to enable stakeholders to monitor key sales and revenue KPIs in real time.
 * Enabled data-driven decision-making by visualizing performance across time periods, regions, and products.
 
-# [Project 2 : Financial Clarity Dashboard](https://github.com/JacobLender/Spotify_API_Dash)
+# [Project 2 : Financial Clarity Dashboard](https://github.com/JacobLender/Financial-Clarity)
 * Built a dynamic Power BI dashboard to consolidate financial metrics including cash flow, revenue, expenses, and departmental budgets.
 * Automated data pipelines and refresh schedules to replace manual weekly data prep, increasing reporting efficiency.
 * Created customized, role-based views to serve executives, finance, and operations teams with targeted insights.
@@ -16,8 +16,3 @@
 * Designed a Power BI dashboard showcasing interactive visuals, including listening trends, genre distribution, and top-played content.
 * Demonstrated proficiency in API integration, data transformation, and visualization tools.
 * Delivered actionable insights in a user-friendly and engaging format.
-
-
-
-
-
