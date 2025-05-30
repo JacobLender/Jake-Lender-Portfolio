@@ -1,4 +1,4 @@
-# [Project 1 : Sales and Revenue Performance](https://github.com/JacobLender/NFL-Stats) 
+# [Project 1 : Sales and Revenue Performance](https://github.com/JacobLender/Sales_Rev_Costs)
 * Developed a Python-based data analysis script using Pandas, Matplotlib, and Seaborn to explore weekly sales and revenue trends.
 * Connected Salesforce data and automated extraction into Google Sheets for streamlined data access and storage.
 * Designed and deployed an interactive Power BI dashboard to enable stakeholders to monitor key sales and revenue KPIs in real time.
