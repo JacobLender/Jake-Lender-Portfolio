@@ -11,8 +11,9 @@
 * Enabled tracking of profitability and cash trends, and visualized budget vs. actuals for strategic planning.
 * Empowered stakeholders to make faster, data-informed decisions, reducing dependency on spreadsheets for financial reporting.
 
-# [Project 3 : Spotify API - Dashboard](https://github.com/JacobLender/Spotify_API_Dash)
-* Built a data pipeline using Python and Spotify API to extract user data like top artists, tracks, and albums.
-* Designed a Power BI dashboard showcasing interactive visuals, including listening trends, genre distribution, and top-played content.
-* Demonstrated proficiency in API integration, data transformation, and visualization tools.
-* Delivered actionable insights in a user-friendly and engaging format.
+# [Project 3 : Ecommerce-Insights](https://github.com/JacobLender/Ecommerce-Insights)
+* Built a full-stack E-commerce analytics solution combining Power BI dashboards and Python churn modeling to deliver actionable insights on customer behavior and ad performance to inform retention strategy.
+* Engineered a churn prediction pipeline using labeled customer behavior data, Random Forest classification, and feature engineering to score churn risk with probability outputs.
+* Designed and implemented interactive Power BI dashboards tracking sales KPIs, customer lifecycle segmentation (New, Active, Churned), ad performance (CAC, ROAS, LTV), and reorder patterns using DAX and visual analytics.
+* Segmented and ranked customers by churn risk using predictive-generated scores to support targeted retention campaigns and increase customer lifetime value.
+* Packaged project with clear documentation and visuals to support portfolio presentation and real-world MVP demonstration for product or marketing decision-makers.
