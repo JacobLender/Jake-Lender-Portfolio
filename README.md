@@ -1,4 +1,4 @@
-# [Project 1 : Marketplace Data Pipeline](https://github.com/JacobLender/Marketplace-Value-Pipeline)
+# [Project 1 : Marketplace Value Pipeline](https://github.com/JacobLender/Marketplace-Value-Pipeline)
 - Built a **daily (~100 listings/day)** pipeline ingesting eBay, Craigslist, personal inventory, and active eBay listings into **Supabase/Postgres**.
 - Designed a **raw → clean → summary** model with `dim_date` & `dim_search_terms`, idempotent upserts, and run logging.
 - Delivered **Power BI (.pbix)** dashboards: **Process Pipeline**, **This Week’s Flip Opportunities** (pricing, margins, aging), and **Inventory Lifecycle Tracker**.
